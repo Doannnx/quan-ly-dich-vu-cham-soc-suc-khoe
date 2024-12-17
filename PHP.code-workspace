@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CSS/learn"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "learn",
+		"liveServer.settings.port": 5501
+	}
+}
